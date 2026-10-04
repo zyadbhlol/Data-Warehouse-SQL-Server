@@ -4,7 +4,7 @@ A data warehouse built with **SQL Server** that combines data from two source sy
 
 ## Architecture
 
-![Data Architecture](architecture.png)
+   ![Data Architecture](architecture.png.png)
 
 | Layer | Purpose | What happens here |
 |---|---|---|
